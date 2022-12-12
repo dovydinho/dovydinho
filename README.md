@@ -1,5 +1,6 @@
-<section align="center">🙈🙉🙊</section>
-<br/>
+<section align="center">
+    <h3>🙈🙉🙊</h3>
+</section>
 <section align="center">
     <img src="/images/michael_scott_surprise.gif">
 </section>
